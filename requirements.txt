@@ -1,0 +1,9 @@
+openai-agents==0.22.3
+openai>=3.0.0,<4
+pydantic>=2.12.2,<3
+python-dotenv
+jupyterlab
+ipykernel
+fastapi
+uvicorn
+httpx
